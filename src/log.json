@@ -1,0 +1,1647 @@
+[
+  {
+    "service": "Trades BNBBTC",
+    "time": "2021-10-05T11:25:04.311Z",
+    "metrics": "0.00883300",
+    "numberOfKPI": 1,
+    "databox": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "51142442-7d94-46d2-8d9a-1eeaba5acdc3"
+    }
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-05T11:35:23.196Z",
+    "metrics": 18860,
+    "numberOfKPI": 1,
+    "databox": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "fba790f2-db4f-44ed-985a-a79cc5b23d0d"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-05T11:35:23.395Z",
+    "metrics": "0.00345400",
+    "numberOfKPI": 1,
+    "databox": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "c257a263-479f-4ece-b942-42d8141bbab2"
+    }
+  },
+  {
+    "service": "BNBBTC",
+    "time": "2021-10-05T11:35:23.401Z",
+    "metrics": "0.00881600",
+    "numberOfKPI": 1,
+    "databox": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "4e0e20a6-9a0c-4009-a16f-c6bf885b5a19"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-05T11:35:23.475Z",
+    "metrics": "0.00344700",
+    "numberOfKPI": 1,
+    "databox": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "ff8fcd92-644c-4588-a6ff-b1f7e03a889f"
+    }
+  },
+  {
+    "service": "Trades BNBBTC",
+    "time": "2021-10-05T11:35:24.329Z",
+    "metrics": "0.00882500",
+    "numberOfKPI": 1,
+    "databox": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "eb37d534-98c4-4e0f-a964-fcfbbab948b2"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-05T19:30:46.062Z",
+    "metrics": 1,
+    "numberOfKPI": {},
+    "report": "17907776887444520"
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-05T19:30:46.072Z",
+    "metrics": 1,
+    "numberOfKPI": {},
+    "report": "17844771446277500"
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-05T19:30:46.146Z",
+    "metrics": 1,
+    "numberOfKPI": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "fdf3b631-b73b-4fdf-82e6-9cc563d5d11b"
+    },
+    "report": "17845388681010458"
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-05T19:35:12.944Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-05T19:35:12.950Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-05T19:35:13.145Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "48e0e7c3-cb50-401a-8de6-50dce8c908ba"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-05T19:35:45.924Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {
+      "status": "INTERNAL_SERVER_ERROR",
+      "message": "Something went wrong while processing your data. Please try again in a minute.",
+      "id": null
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-05T19:35:45.954Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "4ffd2555-6362-4592-a119-63cf3764c743"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-05T19:35:45.997Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "710cd913-ba82-471c-bfab-cfaa893863df"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-05T19:36:27.431Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-05T19:36:27.438Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-05T19:36:27.486Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "e11d9d72-fff6-4fa3-a415-55fea00ef234"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T21:20:07.053Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T21:20:07.072Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-06T21:20:07.090Z",
+    "metrics": 18860,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "48537aa7-702c-4ee0-8db6-7376752fdeb6"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-06T21:20:07.111Z",
+    "metrics": "0.00329400",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70870959
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "643542af-db98-47ff-ae91-0524e70e9866"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-06T21:20:07.124Z",
+    "metrics": "0.00328700",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "3489c52b-596e-4e96-bb30-43f7807b6cfb"
+    }
+  },
+  {
+    "service": "Trades BNBBTC",
+    "time": "2021-10-06T21:20:07.139Z",
+    "metrics": "0.00782600",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 162676016
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "4cf54762-fab2-4c89-8113-b9e95f4fc301"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T21:20:07.160Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "9fbe8e1c-5368-409e-bfdb-7531e044b5b7"
+    }
+  },
+  {
+    "service": "BNBBTC",
+    "time": "2021-10-06T21:20:07.273Z",
+    "metrics": "0.00782100",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "1d40db49-7e79-4479-81ea-d8a449c7713e"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T21:20:11.703Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T21:20:11.721Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T21:20:11.745Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "08eb16ec-5a28-4e05-be21-558a9a615fc3"
+    }
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-06T21:20:11.769Z",
+    "metrics": 18860,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "5195ed53-9c3d-4e57-bf03-2ec221d193bc"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-06T21:20:11.837Z",
+    "metrics": "0.00328700",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "79a1afaa-3eb4-42f3-b517-728de25358f1"
+    }
+  },
+  {
+    "service": "BNBBTC",
+    "time": "2021-10-06T21:20:11.848Z",
+    "metrics": "0.00782000",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "4265cbab-9365-4901-9733-0e85a083e97b"
+    }
+  },
+  {
+    "service": "Trades BNBBTC",
+    "time": "2021-10-06T21:20:11.862Z",
+    "metrics": "0.00782000",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 162676038
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "1807c4ba-6731-4ec1-aaa4-226502aace92"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-06T21:20:11.876Z",
+    "metrics": "0.00329300",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70870963
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "69ca8e8d-af85-46ab-a77a-8342197b6c50"
+    }
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-06T21:29:24.521Z",
+    "metrics": 18860,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "a8dab430-4d13-4859-b358-56f21f5a478f"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T21:29:24.526Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "5adc7e66-ffe2-4286-92cf-5a22ad9ad7da"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T21:29:24.545Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T21:29:24.554Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-06T21:29:24.665Z",
+    "metrics": "0.00327400",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "616c2571-5801-40c1-94aa-755d39d712e5"
+    }
+  },
+  {
+    "service": "BNBBTC",
+    "time": "2021-10-06T21:29:24.676Z",
+    "metrics": "0.00780300",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "4a69b179-1fbf-420b-bc2a-e7e886834b81"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-06T21:29:24.700Z",
+    "metrics": "0.00328300",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70871598
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "ca50c641-c1cc-4b93-b0d4-3dafd848b66d"
+    }
+  },
+  {
+    "service": "Trades BNBBTC",
+    "time": "2021-10-06T21:29:25.004Z",
+    "metrics": "0.00782000",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 162676799
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "cf817e23-3cf5-42df-b7c9-2e5e6d97c4dd"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:21:05.749Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:21:05.753Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:21:05.841Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "87d8c724-0134-4aa7-a6b4-fb53011532dd"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-06T22:21:06.059Z",
+    "metrics": "0.00330000",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "91c129d7-056a-4264-9c1c-8a612be79604"
+    }
+  },
+  {
+    "service": "Invalid",
+    "time": "2021-10-06T22:21:06.205Z",
+    "metrics": null,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "BAD_REQUEST",
+      "message": "Validation error - Data must contain metric value",
+      "id": null
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-06T22:21:06.531Z",
+    "metrics": "0.00329000",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70873434
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "b9627a4e-68ec-4912-bc97-74d0773de523"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:21:56.523Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:21:56.528Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:21:56.595Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "ce931f4b-ca94-419e-88b7-8931b5b53222"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-06T22:21:56.869Z",
+    "metrics": "0.00330100",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "715ea857-4c21-430c-8a13-5271041effb8"
+    }
+  },
+  {
+    "service": "Invalid",
+    "time": "2021-10-06T22:21:56.934Z",
+    "metrics": null,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "BAD_REQUEST",
+      "message": "Validation error - Data must contain metric value",
+      "id": null
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:22:23.147Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:22:23.151Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:22:23.164Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "9e9273d1-d7b6-4e9f-bc20-5e93b2cc56a8"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-06T22:22:23.441Z",
+    "metrics": "0.00330000",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "c6a50b71-0c4c-4b52-be8e-25eb6ca35c98"
+    }
+  },
+  {
+    "service": "Invalid",
+    "time": "2021-10-06T22:22:23.565Z",
+    "metrics": null,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "BAD_REQUEST",
+      "message": "Validation error - Data must contain metric value",
+      "id": null
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-06T22:22:23.890Z",
+    "metrics": "0.00328500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70873510
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "b9429c17-4192-4df6-9241-e6e336de3949"
+    }
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-06T22:22:27.983Z",
+    "metrics": 18860,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "394cc878-2bfd-46f8-9de2-71bf4d713eb9"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:22:27.988Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:22:27.991Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:22:28.050Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "353ab51d-0c7b-46b6-b1ba-fdbbe6b59ba4"
+    }
+  },
+  {
+    "service": "BNBBTC",
+    "time": "2021-10-06T22:22:28.150Z",
+    "metrics": "0.00789300",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "747b0819-b041-484d-b14f-26257f45c392"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-06T22:22:28.173Z",
+    "metrics": "0.00330000",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "a571ab16-7260-4e50-921f-a9c26edc878e"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-06T22:22:28.377Z",
+    "metrics": "0.00328300",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70873517
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "b812eda1-6c13-41a8-9a8e-fc08319d26f0"
+    }
+  },
+  {
+    "service": "Trades BNBBTC",
+    "time": "2021-10-06T22:22:28.388Z",
+    "metrics": "0.00787200",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 162682272
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "f5ec0ec0-37b9-4594-a415-b76fe77317a6"
+    }
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-06T22:22:29.136Z",
+    "metrics": 18860,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "063d7a0e-b5dd-4162-9a31-303341dacd6c"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:22:32.984Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:22:33.005Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-06T22:22:33.027Z",
+    "metrics": 18860,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "63551a91-ab51-4ce1-a887-c6c97b77b215"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:22:33.045Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "79e24f67-bf80-4ce3-82ac-fc2e30cd9d21"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-06T22:22:33.208Z",
+    "metrics": "0.00330000",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "750d897c-c71a-4763-bd4c-f478202b3957"
+    }
+  },
+  {
+    "service": "BNBBTC",
+    "time": "2021-10-06T22:22:33.229Z",
+    "metrics": "0.00789400",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "22131c30-d659-4826-b040-c7085323754d"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-06T22:22:33.436Z",
+    "metrics": "0.00328200",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70873524
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "93ab754e-5ed6-4a1b-ba52-f806677765aa"
+    }
+  },
+  {
+    "service": "Trades BNBBTC",
+    "time": "2021-10-06T22:22:33.658Z",
+    "metrics": "0.00787200",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 162682300
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "8150da7f-1d60-465b-8007-75d6fa2b06c9"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:25:19.424Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:25:19.428Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:25:19.454Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "aeed5633-3d16-45c5-a0e3-1f8add5f7a02"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-06T22:25:19.749Z",
+    "metrics": "0.00329300",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "e4899b23-c6a4-40d6-b1a3-e83eb5a94dcf"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-06T22:25:20.388Z",
+    "metrics": "0.00328100",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70873624
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "8ad50903-5860-47e6-bda5-f068f17c1713"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:25:24.231Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:25:24.234Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:25:24.273Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "246b4a07-ed22-42b9-958f-1aa99eb15f68"
+    }
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-06T22:25:24.277Z",
+    "metrics": 18860,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "3de96362-728c-409b-bd7b-cd3088209082"
+    }
+  },
+  {
+    "service": "BNBBTC",
+    "time": "2021-10-06T22:25:24.441Z",
+    "metrics": "0.00788300",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "844a0dde-6aae-4e48-9523-835b424acab4"
+    }
+  },
+  {
+    "service": "Trades BNBBTC",
+    "time": "2021-10-06T22:25:24.461Z",
+    "metrics": "0.00788600",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 162682541
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "0e78690f-aa2c-454f-b703-8a749db05f35"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-06T22:25:24.464Z",
+    "metrics": "0.00329300",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "e070e718-8c1c-4631-aff6-708e1aae2a2c"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-06T22:25:24.482Z",
+    "metrics": "0.00328100",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70873625
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "76b146ee-dff2-4b8e-81f8-c4ce1e176068"
+    }
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-06T22:25:25.646Z",
+    "metrics": 18860,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "908855c3-bec0-46b3-a89c-be2c5951d7fa"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:27:13.455Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:27:13.514Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-06T22:27:13.555Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "17d09da1-494e-419f-982c-ccbabec6f095"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-06T22:27:13.775Z",
+    "metrics": "0.00329100",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "44f72466-0dcf-4726-9724-5d3a1afc6b29"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-06T22:27:14.199Z",
+    "metrics": "0.00328100",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70873655
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "fc398778-9d6e-4560-9b96-dedcc5e4b4ae"
+    }
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-06T22:27:14.791Z",
+    "metrics": 18860,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "763f0fd2-3387-4c91-be5d-a9403a6b8474"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T06:25:45.522Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T06:25:45.528Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T06:25:45.547Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "ab0e1a73-9e84-4fe0-b722-fa93241dff87"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-08T06:25:45.798Z",
+    "metrics": "0.00328100",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "6dd3252c-2421-4e57-b811-4aace136db31"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-08T06:25:47.225Z",
+    "metrics": "0.00327500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70954455
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "45b9cef2-4f71-4553-9345-df895034de04"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T06:26:03.470Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T06:26:03.477Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-08T06:26:04.203Z",
+    "metrics": "0.00328100",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "e8b558b0-7be5-44ee-8cb1-a3c0006871fc"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T06:26:04.210Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "9426e2df-01d6-4ae5-a0ea-1d387a945157"
+    }
+  },
+  {
+    "service": "BNBBTC",
+    "time": "2021-10-08T06:26:04.214Z",
+    "metrics": "0.00800900",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "e4b46418-892b-4baa-a77b-2292943d6688"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-08T06:26:04.223Z",
+    "metrics": "0.00327500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70954462
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "bbf63a9c-fec3-4a24-adc7-d8c93ee0bdaf"
+    }
+  },
+  {
+    "service": "Trades BNBBTC",
+    "time": "2021-10-08T06:26:04.231Z",
+    "metrics": "0.00800700",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 162826281
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "5a427a12-cceb-42e8-9833-d783ff8449b6"
+    }
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-08T06:26:04.239Z",
+    "metrics": 18860,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "e492979f-5412-4ab4-bb02-d275597c94b8"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T06:26:08.156Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T06:26:08.162Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-08T06:26:08.262Z",
+    "metrics": 18860,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "376e7b52-d973-4c3e-a54d-63b0baad3012"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T06:26:08.270Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "00eaee06-f4aa-402f-b64e-036593eb2305"
+    }
+  },
+  {
+    "service": "Trades BNBBTC",
+    "time": "2021-10-08T06:26:08.443Z",
+    "metrics": "0.00800500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 162826283
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "effb16c0-3606-4f4d-82b9-084aa2b5b637"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-08T06:26:08.453Z",
+    "metrics": "0.00328100",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "ee8188b0-72d2-4cd0-87cf-c27c8b40cf3f"
+    }
+  },
+  {
+    "service": "BNBBTC",
+    "time": "2021-10-08T06:26:08.475Z",
+    "metrics": "0.00800900",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "4d476305-7947-411a-872f-11c4a700bd96"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-08T06:26:08.485Z",
+    "metrics": "0.00327500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70954462
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "fae2cef2-3861-4af3-90c6-74a42323f7d6"
+    }
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-08T11:08:16.744Z",
+    "metrics": 18860,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "13ad5dca-a2b7-45d0-bc83-2f7d751626e4"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-08T11:08:16.851Z",
+    "metrics": "0.00326300",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "bcf5e8c8-fc5a-4c39-9553-44ec82880eec"
+    }
+  },
+  {
+    "service": "BNBBTC",
+    "time": "2021-10-08T11:08:16.857Z",
+    "metrics": "0.00784300",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "f5fcec23-8a15-4ec5-ad7e-91114d5b7302"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-08T11:08:16.935Z",
+    "metrics": "0.00325900",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70964974
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "3be68d28-4eb9-47de-8e48-03afb06ae64a"
+    }
+  },
+  {
+    "service": "Trades BNBBTC",
+    "time": "2021-10-08T11:08:16.940Z",
+    "metrics": "0.00785100",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 162850949
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "66165b44-29cc-4c64-8fb2-f0069ad54434"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T11:08:17.000Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T11:08:17.006Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T11:08:17.052Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "9f201fa9-ef31-4b20-a113-bb3591313dcf"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T11:08:29.606Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T11:08:29.611Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T11:08:29.618Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "8f237bd8-47f0-46dd-b756-7448f98d9197"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-08T11:08:29.867Z",
+    "metrics": "0.00326200",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "b07ca5f4-8443-4901-9e91-6582e4347bc2"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-08T11:08:30.289Z",
+    "metrics": "0.00326200",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70964976
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "d9d35e85-19db-4072-aa9a-a008a7c6bf46"
+    }
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-08T11:08:30.725Z",
+    "metrics": 18860,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "89d3df50-3687-4801-ab98-a612bf81faf1"
+    }
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T11:09:12.393Z",
+    "metrics": "17844771446277500",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🍀🦀"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T11:09:12.398Z",
+    "metrics": "17907776887444520",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "🐺"
+    },
+    "report": {}
+  },
+  {
+    "service": "IG",
+    "time": "2021-10-08T11:09:12.457Z",
+    "metrics": "17845388681010458",
+    "attributes": 1,
+    "numberOfKPI": {
+      "caption": "Before you get a dog, you can't quite imagine what living with one might be like; Afterwards, you can't imagine living any other way."
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "5b3468b3-d470-46ec-bd81-f969fb7a4cc0"
+    }
+  },
+  {
+    "service": "LTCBTC",
+    "time": "2021-10-08T11:09:12.591Z",
+    "metrics": "0.00326100",
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "9a35b437-e5fc-4564-af09-bb5b74d9d835"
+    }
+  },
+  {
+    "service": "Trades LTCBTC",
+    "time": "2021-10-08T11:09:13.749Z",
+    "metrics": "0.00326000",
+    "attributes": 1,
+    "numberOfKPI": {
+      "id": 70964986
+    },
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "24311af1-3b25-4ae8-9163-0abacf6d0f1a"
+    }
+  },
+  {
+    "service": "Albert Einstein Wiki views",
+    "time": "2021-10-08T11:09:14.032Z",
+    "metrics": 18860,
+    "attributes": 1,
+    "numberOfKPI": 0,
+    "report": {
+      "status": "OK",
+      "message": "Successfully pushed 1 data entries!",
+      "id": "0eeaa05b-f427-4d24-8ab7-0d577fa1398d"
+    }
+  }
+]

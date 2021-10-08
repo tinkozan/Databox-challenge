@@ -1,0 +1,19 @@
+{
+    "name": "databox_challenge",
+    "version": "1.0.0",
+    "description": "Databox challenge",
+    "main": "app.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Zan Tinko",
+    "dependencies": {
+        "databox": "^2.0.1",
+        "dateformat": "^5.0.1",
+        "express": "^4.17.1",
+        "fs": "0.0.1-security",
+        "https": "^1.0.0",
+        "jest": "^27.2.4",
+        "request": "^2.88.2"
+    }
+}
